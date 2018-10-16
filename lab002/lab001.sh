@@ -1,8 +1,12 @@
 #!/bin/bash
 
-value1=home
-echo $value1
+value1=hello
+value2=world
 
-value2=${value1}"="
+# 拼接
+value3=$value1$value2
+echo "$value3"
 
-echo $value2
+# 拼接，结果是(hello+world)
+value4=$value1+$value2
+echo "$value4"
