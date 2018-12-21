@@ -11,6 +11,8 @@
 |tutorial007.sh|echo|
 |tutorial008.sh|prinf|
 |tutorial009.sh|test|
+|tutorial010.sh|控制语句if for while until case|
+|tutorial011.sh|函数|
 
 ## 参考资料
 http://www.runoob.com/linux/linux-shell-variable.html
