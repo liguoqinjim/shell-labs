@@ -13,4 +13,6 @@
 |lab009|打印，颜色|
 |lab010|输出和输入|
 |lab011|ansi,ANSI escape codes in pure bash - change text color, position the cursor, much more|https://github.com/fidian/ansi|
+|lab012|判断文件或者目录是否已经存在|
+|lab013|判断一个命令是否存在，比如判断yum是否存在|
 |playground|随便写的代码，需要整理|
