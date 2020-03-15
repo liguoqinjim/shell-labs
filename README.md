@@ -19,4 +19,6 @@
 |lab015|数据库相关||
 |lab016|nohup||
 |lab017|重定向||
+|lab018|trap||
+|lab019|得到os和arch||
 |playground|随便写的代码，需要整理|

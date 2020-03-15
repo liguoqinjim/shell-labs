@@ -13,6 +13,7 @@
 |tutorial009.sh|test|
 |tutorial010.sh|控制语句if for while until case|
 |tutorial011.sh|函数|
+|tutorlal012.sh|判断是否有可执行文件||
 
 ## 参考资料
 http://www.runoob.com/linux/linux-shell-variable.html
