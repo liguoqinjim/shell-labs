@@ -21,4 +21,5 @@
 |lab017|重定向||
 |lab018|trap||
 |lab019|得到os和arch||
+|lab020|替换文件中的字符串||
 |playground|随便写的代码，需要整理|
