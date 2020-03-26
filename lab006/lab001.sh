@@ -10,3 +10,10 @@ echo $str |cut -d"," -f1
 arr=(${str//,/ })
 echo ${arr[@]}
 echo ${!arr[@]}
+## index
+echo ${arr[0]}
+## 得到数组最后一个
+len=${#arr[@]}
+echo "length="$len
+last=${arr[len-1]}
+echo "last="$last
