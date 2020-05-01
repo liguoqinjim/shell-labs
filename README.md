@@ -25,4 +25,5 @@
 |lab021|启动脚本||
 |lab022|循环||
 |lab023|egrep||
+|lab024|ssh远程echo||
 |playground|随便写的代码，需要整理|
