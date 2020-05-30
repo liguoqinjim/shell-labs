@@ -26,4 +26,5 @@
 |lab022|循环||
 |lab023|egrep||
 |lab024|ssh远程echo||
+|lab025|ssh操作远程的tmux||
 |playground|随便写的代码，需要整理|
